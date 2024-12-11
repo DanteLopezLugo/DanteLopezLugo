@@ -1,4 +1,6 @@
-## Hi there 👋
+## What up
+
+This is my Softtekian GitHub account, for my personal profile visit <a>https://github.com/DanteDeLordran</a>
 
 <!--
 **DanteLopezLugo/DanteLopezLugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
